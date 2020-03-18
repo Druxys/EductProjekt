@@ -14,4 +14,5 @@ null,
 {"id":12,"expanded":false,"name":"CreativLab2","order":14,"parentId":10,"scrollX":0,"scrollY":0},
 {"id":13,"expanded":false,"name":"Bathroom","order":11,"parentId":6,"scrollX":618.5,"scrollY":401.5},
 {"id":14,"expanded":false,"name":"Co-Working","order":6,"parentId":2,"scrollX":618.5,"scrollY":401.5}
+{"id":15,"expanded":false,"name":"Classroom","order":15,"parentId":10,"scrollX":1139,"scrollY":661}
 ]
