@@ -2,5 +2,6 @@
 null,
 {"id":1,"battlerName":"battler_1_2","characterIndex":1,"characterName":"character1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"face__1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Serge","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"battler_1_3","characterIndex":2,"characterName":"character1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"face__1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Developpeur","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"character6","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"face__6","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
